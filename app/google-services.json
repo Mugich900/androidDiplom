@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16335825230",
+    "firebase_url": "https://cookhelperdatabase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cookhelperdatabase",
+    "storage_bucket": "cookhelperdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16335825230:android:8a972f4bf5eac13605d61f",
+        "android_client_info": {
+          "package_name": "com.example.cookhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16335825230-be599dl6q99rm8q17eeu787ac99h6d80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv5J5QxzUjhjlPinCgMMQfF6E2GaZiu2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16335825230-be599dl6q99rm8q17eeu787ac99h6d80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
